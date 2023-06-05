@@ -70,3 +70,4 @@ ax3.set_zlabel("z axis")
 ax3.plot_trisurf(point_cloud[0,:], point_cloud[1,:], point_cloud[2,:], cmap=plt.cm.Spectral, antialiased=True)
 
 plt.show()
+
